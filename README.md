@@ -9,3 +9,8 @@ This project requires Python, uses python standard library and doesn't require a
 # Run
 
 python voterlistscraper.py source.pdf destination.csv
+
+A pdf that was used at the time of building the scraper is included and can be scraped by entering the following command in command line -
+python voterlistscraper.py voters.pdf somefilename.csv
+
+This will generate a csv file named somefilename.csv which will contain the desired information.
