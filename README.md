@@ -8,4 +8,4 @@ This project requires Python, uses python standard library and doesn't require a
 
 # Run
 
-python voterlistscraper.py voters.pdf voters.csv
+python voterlistscraper.py source.pdf destination.csv
